@@ -1,0 +1,15 @@
+{
+	"title":"Sterelogue",
+	"genre":"HARDCORE",
+	"illustrator": "A.I.",
+	"bpm":"202",
+	"composer":"VeetaCrush",
+	"charts":[
+		{
+			"file":"massive.txt",
+			"charter":"ffzero vs. Astra",
+			"level":"CHAOTIC",
+			"constant":"速"
+		}
+	]
+}
