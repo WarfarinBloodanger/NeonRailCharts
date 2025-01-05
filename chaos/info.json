@@ -1,0 +1,15 @@
+{
+	"title":"CHAOS",
+	"genre":"",
+	"illustrator": "A.I.",
+	"bpm":"150",
+	"composer":"ÆSir",
+	"charts":[
+		{
+			"file":"massive.txt",
+			"charter":"ffzero",
+			"level":"MASSIVE",
+			"constant":"16+"
+		}
+	]
+}
