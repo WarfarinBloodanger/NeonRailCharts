@@ -1,0 +1,15 @@
+{
+  "title": "The Formula",
+  "bpm": "144",
+  "genre": "Trance",
+  "composer": "Junk",
+  "illustrator": "",
+  "charts": [
+    {
+      "level": "MASSIVE",
+      "constant": "16",
+      "charter": "ffzero",
+      "file": "massive.txt"
+    }
+  ]
+}
