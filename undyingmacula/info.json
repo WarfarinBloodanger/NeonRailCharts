@@ -1,0 +1,15 @@
+{
+  "title": "Undying Macula",
+  "bpm": "189",
+  "genre": "Artcore",
+  "composer": "Ashrount",
+  "illustrator": "",
+  "charts": [
+    {
+      "level": "MASSIVE",
+      "constant": "16",
+      "charter": "ffzero",
+      "file": "massive.txt"
+    }
+  ]
+}
