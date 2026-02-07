@@ -1,0 +1,15 @@
+{
+	"title":"raputa",
+	"genre":"",
+	"illustrator":"-",
+	"bpm":"230",
+	"composer":"sasakure.UK × TJ.hangneil",
+	"charts":[
+		{
+			"file":"massive.txt",
+			"charter":"ffzero",
+			"level":"MASSIVE",
+			"constant":"16+"
+		}
+	]
+}
