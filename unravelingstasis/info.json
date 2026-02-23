@@ -1,0 +1,15 @@
+{
+  "title": "Unraveling Stasis",
+  "bpm": "223",
+  "genre": "",
+  "composer": "l'avenir proche",
+  "illustrator": "",
+  "charts": [
+    {
+      "level": "MASSIVE",
+      "constant": "16+",
+      "charter": "ffzero",
+      "file": "massive.txt"
+    }
+  ]
+}
