@@ -1,0 +1,15 @@
+{
+	"title":"Ultimate Force",
+	"genre":"GAME MUSIC",
+	"illustrator": "miya*ki",
+	"bpm":"270",
+	"composer":"Sakuzyo",
+	"charts":[
+		{
+			"file":"massive.txt",
+			"charter":"ffzero",
+			"level":"MASSIVE",
+			"constant":"16+"
+		}
+	]
+}
