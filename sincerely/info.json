@@ -1,0 +1,15 @@
+{
+	"title":"Sincerely",
+	"genre":"GAME MUSIC",
+	"illustrator": "",
+	"bpm":"178",
+	"composer":"Lillie Virgo",
+	"charts":[
+		{
+			"file":"massive.txt",
+			"charter":"ffzero",
+			"level":"MASSIVE",
+			"constant":"16+"
+		}
+	]
+}
