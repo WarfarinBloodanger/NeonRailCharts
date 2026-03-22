@@ -1,0 +1,15 @@
+{
+	"title":"Southern Cross",
+	"genre":"Speedcore",
+	"illustrator": "-",
+	"bpm":"171",
+	"composer":"403",
+	"charts":[
+		{
+			"file":"massive.txt",
+			"charter":"ffzero",
+			"level":"MASSIVE",
+			"constant":"16"
+		}
+	]
+}
