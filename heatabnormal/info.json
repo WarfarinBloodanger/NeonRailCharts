@@ -1,0 +1,14 @@
+{ 
+ "title":"Heat Abnormal", 
+ "genre":"VOCALOID", 
+ "illustrator":"", 
+ "bpm":"183", 
+ "composer":"いよわ", 
+ "id":"c7d282dc1694fbb88647993ddf6d7f7472692fbc3dc2adf2ab079d59c477164a2ed769694ed4530efa5b3fca6be402b6d8ad2200409679395171c82a1697df919f55e900b5c73d3b80c5018aff03d7fc94493028c5f2af5aa00366a0034a7cf7beb55d92e9426c6a46ab984c749c4d61",
+ "charts":[ 
+ { 
+ "file":"massive.txt", 
+ "charter":"ffzero", 
+ "level":"MASSIVE", 
+ "constant":"16" }
+}
