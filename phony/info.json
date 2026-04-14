@@ -1,0 +1,15 @@
+{
+	"title":"Phony",
+	"genre":"VOCALOID",
+	"illustrator":"-",
+	"bpm":"170",
+	"composer":"ツミキ",
+	"charts":[
+		{
+			"file":"massive.txt",
+			"charter":"ffzero",
+			"level":"MASSIVE",
+			"constant":"16"
+		}
+	]
+}
