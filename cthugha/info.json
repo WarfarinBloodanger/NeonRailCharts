@@ -4,12 +4,13 @@
 	"illustrator": "谷地",
 	"bpm":"213",
 	"composer":"USAO",
+"id":"c7d282dc1694fbb88647993ddf6d7f7472692fbc3dc2adf2ab079d59c477164a2ed769694ed4530efa5b3fca6be402b6d8ad2200409679395171c82a1697df919f55e900b5c73d3b80c5018aff03d7fcedc06bf202c3260e07ff1442cd3f4e96",
 	"charts":[
 		{
 			"file":"massive.txt",
 			"charter":"ffzero feat. ffzero",
-			"level":"MASSIVE",
-			"constant":"16+"
+			"level":"CHAOTIC",
+			"constant":"暴"
 		}
 	]
 }
