@@ -1,0 +1,15 @@
+{
+	"title":"Lost Civilization",
+"genre":"HARDCORE",
+	"illustrator": "",
+	"bpm":"210-75",
+	"composer":"Laur vs CK",
+	"charts":[
+		{
+			"file":"massive.txt",
+			"charter":"ffzero",
+			"level":"MASSIVE",
+			"constant":"16"
+		}
+	]
+}
