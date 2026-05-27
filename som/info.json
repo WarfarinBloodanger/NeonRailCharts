@@ -1,0 +1,15 @@
+{
+  "title": "Spirit of the Monarch",
+  "bpm": "s",
+  "genre": "",
+  "composer": "",
+  "illustrator": "",
+  "charts": [
+    {
+      "level": "MASSIVE",
+      "constant": "16",
+      "charter": "",
+      "file": "massive.txt"
+    }
+  ]
+}
